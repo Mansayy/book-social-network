@@ -28,7 +28,7 @@ Spring dependencies were installed from https://start.spring.io
 - Spring Data JPA: Database to process data  
 - Validation: To Validate Input  
 - JavaMail Sender: To use email functionality   
-- Spring Security: As we implemented security based on JWT   
+- Spring Security: Implemented security based on JWT   
 - Thymeleaf: To implement better email templates  
 - PostgreSQL Diver: For our database  
 - Lombok: To reduce boilerplate code  
