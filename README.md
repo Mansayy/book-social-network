@@ -1,6 +1,6 @@
 Book Social Network uses Spring Boot for backend services, PostgreSQL for efficient database management, JWT for secure user authentication, and CRUD operations for book and user interaction management. I built a responsive frontend using Angular, featuring a sleek UI crafted with CSS and Bootstrap, enhancing user experience.
 
-**Tech Stack Used:**  
+**Tech Stack:**  
 **Backend:**  
 - Spring Boot 3  
 - Java (version 17)  
