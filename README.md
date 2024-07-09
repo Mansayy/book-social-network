@@ -34,6 +34,8 @@ Spring dependencies were installed from https://start.spring.io
 - Lombok: To reduce boilerplate code  
 
 **Other dependencies:**  
+- Docker: Future scope can be to containerize the code but here needed for MailDev Functionality.
+  (Installation instruction: https://www.docker.com/products/docker-desktop/)
 - MailDev: It is a simple way to test your project's generated email during development. It was used to create emails for testing.  
 - My current codebase MailDev is configured in Docker Compose yml file and can be run using the below command.  
 $ docker run -p 1080:1080 -p 1025:1025 maildev/maildev  
