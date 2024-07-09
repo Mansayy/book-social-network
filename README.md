@@ -20,6 +20,7 @@ Bootstrap
 
 Database: PostgreSQL(Version 16.3 )
 (Installation Instruction: https://postgresapp.com/downloads.html)
+pgAdmin 4 for graphical interface of the database
 
 Spring dependencies were installed from https://start.spring.io
 Spring Web: To create API, it uses ApacheTomcat as the default embedded container
